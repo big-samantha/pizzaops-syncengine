@@ -11,3 +11,5 @@
 /log
 .yardoc
 coverage
+.idea/
+*.iml
